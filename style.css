@@ -241,7 +241,10 @@ footer hr {
 }
 
 @media screen and (max-width:1300px) {
-
+    body {   
+        overflow-x: none;
+    }
+    
     .social {
         display: flex;
         flex-direction: row;
