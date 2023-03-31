@@ -240,7 +240,7 @@ footer hr {
     }
 }
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:1300px) {
 
     .social {
         display: flex;
